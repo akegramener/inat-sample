@@ -1,0 +1,15 @@
+Slide, Points
+2, Microsoft deep learning ecosystem (CNTK, DSVM, BATCH-AI, MML-SPARK, HD-INSIGHT) is used to solve the problem of accurately classifying the images.
+3, Fonts size is different for dates, leave some space below for Image labels
+4, Top 1 Accuracy: 84.42% Top 5 Accuracy: 96.75%, Remove the error rates please. For larger dataset, there are 5085 subcategories.
+5, Spacing, this might be because I am using open-office to view the slides.
+6, Microsoft DSVM with Ubuntu
+7, Not very sure of the difference between data-augmentation and Image-augmentation. It is one step process, basically we use Image Augmentation to create more samples that are similar to a species which has a low ratio in the dataset.
+8, Remove the term avoid over-fitting please.
+    - Resnet34 as the base layer
+    - Transfer Learning with weights freezed
+    - Custom Dense layers with Batch-norm and Dropouts
+    - Differential Learning rates and momentum schedulers
+    - Adam Optimizer
+    - Train for 100 epochs
+9, Changes as suggested in 7

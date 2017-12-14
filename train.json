@@ -1,0 +1,330 @@
+[
+  {
+    "index": "Actinopterygii-Abudefduf saxatilis",
+    "top_1": 38.0,
+    "top_5": 38.0,
+    "total": 38.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Actinopterygii-Lepomis macrochirus",
+    "top_1": 110.0,
+    "top_5": 115.0,
+    "total": 115.0,
+    "top_1_%": 95.6521739130435,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Actinopterygii-Zanclus cornutus",
+    "top_1": 68.0,
+    "top_5": 68.0,
+    "total": 68.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Amphibia-Acris blanchardi",
+    "top_1": 390.0,
+    "top_5": 462.0,
+    "total": 467.0,
+    "top_1_%": 83.5117773019272,
+    "top_5_%": 98.9293361884368
+  },
+  {
+    "index": "Amphibia-Gastrophryne olivacea",
+    "top_1": 80.0,
+    "top_5": 85.0,
+    "total": 85.0,
+    "top_1_%": 94.1176470588235,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Amphibia-Trachycephalus typhonius",
+    "top_1": 27.0,
+    "top_5": 28.0,
+    "total": 28.0,
+    "top_1_%": 96.4285714285714,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Animalia-Acropora palmata",
+    "top_1": 18.0,
+    "top_5": 18.0,
+    "total": 18.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Animalia-Megalorchestia californiana",
+    "top_1": 18.0,
+    "top_5": 18.0,
+    "total": 18.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Animalia-Velella velella",
+    "top_1": 108.0,
+    "top_5": 112.0,
+    "total": 112.0,
+    "top_1_%": 96.4285714285714,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Arachnida-Amblyomma americanum",
+    "top_1": 15.0,
+    "top_5": 15.0,
+    "total": 15.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Arachnida-Latrodectus geometricus",
+    "top_1": 141.0,
+    "top_5": 141.0,
+    "total": 141.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Arachnida-Verrucosa arenata",
+    "top_1": 56.0,
+    "top_5": 58.0,
+    "total": 58.0,
+    "top_1_%": 96.551724137931,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Aves-Acanthis flammea",
+    "top_1": 119.0,
+    "top_5": 121.0,
+    "total": 121.0,
+    "top_1_%": 98.3471074380165,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Aves-Fregata minor",
+    "top_1": 38.0,
+    "top_5": 38.0,
+    "total": 38.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Aves-Zosterops lateralis lateralis",
+    "top_1": 36.0,
+    "top_5": 36.0,
+    "total": 36.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Chromista-Durvillaea antarctica",
+    "top_1": 25.0,
+    "top_5": 25.0,
+    "total": 25.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Chromista-Hormosira banksii",
+    "top_1": 44.0,
+    "top_5": 45.0,
+    "total": 45.0,
+    "top_1_%": 97.7777777777778,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Chromista-Sargassum muticum",
+    "top_1": 34.0,
+    "top_5": 34.0,
+    "total": 34.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Fungi-Agrocybe parasitica",
+    "top_1": 66.0,
+    "top_5": 67.0,
+    "total": 67.0,
+    "top_1_%": 98.5074626865672,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Fungi-Gymnosporangium juniperi-virginianae",
+    "top_1": 44.0,
+    "top_5": 44.0,
+    "total": 44.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Fungi-Xylaria polymorpha",
+    "top_1": 16.0,
+    "top_5": 16.0,
+    "total": 16.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Insecta-Abaeis nicippe",
+    "top_1": 147.0,
+    "top_5": 147.0,
+    "total": 147.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Insecta-Eacles imperialis",
+    "top_1": 138.0,
+    "top_5": 140.0,
+    "total": 140.0,
+    "top_1_%": 98.5714285714286,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Insecta-Zopherus nodulosus haldemani",
+    "top_1": 51.0,
+    "top_5": 51.0,
+    "total": 51.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Mammalia-Acinonyx jubatus",
+    "top_1": 57.0,
+    "top_5": 57.0,
+    "total": 57.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Mammalia-Lycaon pictus",
+    "top_1": 34.0,
+    "top_5": 34.0,
+    "total": 34.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Mammalia-Zalophus californianus",
+    "top_1": 409.0,
+    "top_5": 415.0,
+    "total": 416.0,
+    "top_1_%": 98.3173076923077,
+    "top_5_%": 99.7596153846154
+  },
+  {
+    "index": "Mollusca-Acanthodoris lutea",
+    "top_1": 75.0,
+    "top_5": 75.0,
+    "total": 75.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Mollusca-Euglandina rosea",
+    "top_1": 28.0,
+    "top_5": 28.0,
+    "total": 28.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Mollusca-Urosalpinx cinerea",
+    "top_1": 39.0,
+    "top_5": 39.0,
+    "total": 39.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Plantae-Abies balsamea",
+    "top_1": 256.0,
+    "top_5": 261.0,
+    "total": 261.0,
+    "top_1_%": 98.0842911877395,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Plantae-Lobelia inflata",
+    "top_1": 51.0,
+    "top_5": 53.0,
+    "total": 53.0,
+    "top_1_%": 96.2264150943396,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Plantae-Zostera marina",
+    "top_1": 16.0,
+    "top_5": 16.0,
+    "total": 16.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Protozoa-Ceratiomyxa fruticulosa",
+    "top_1": 21.0,
+    "top_5": 21.0,
+    "total": 21.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Protozoa-Lycogala epidendrum",
+    "top_1": 110.0,
+    "top_5": 112.0,
+    "total": 112.0,
+    "top_1_%": 98.2142857142857,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Protozoa-Tubifera ferruginosa",
+    "top_1": 29.0,
+    "top_5": 29.0,
+    "total": 29.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Reptilia-Actinemys marmorata",
+    "top_1": 132.0,
+    "top_5": 135.0,
+    "total": 135.0,
+    "top_1_%": 97.7777777777778,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Reptilia-Hypsiglena jani",
+    "top_1": 102.0,
+    "top_5": 103.0,
+    "total": 103.0,
+    "top_1_%": 99.0291262135922,
+    "top_5_%": 100.0
+  },
+  {
+    "index": "Reptilia-Zootoca vivipara",
+    "top_1": 56.0,
+    "top_5": 56.0,
+    "total": 56.0,
+    "top_1_%": 100.0,
+    "top_5_%": 100.0
+  },
+  {
+    "index": NaN,
+    "top_1": 3242.0,
+    "top_5": 3356.0,
+    "total": 3362.0,
+    "top_1_%": NaN,
+    "top_5_%": NaN
+  },
+  {
+    "index": NaN,
+    "top_1": 0.964306960142772,
+    "top_5": 0.998215348007139,
+    "total": NaN,
+    "top_1_%": NaN,
+    "top_5_%": NaN
+  }
+]

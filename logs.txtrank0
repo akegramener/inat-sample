@@ -1,0 +1,206 @@
+{
+    training: [
+        {Epoch: 1, loss: 3.460221, metric: 84.62%}
+        {Epoch: 2, loss: 2.206652, metric: 56.49%},
+        {Epoch: 3, loss: 1.642602, metric: 41.83%},
+        {Epoch: 4, loss: 1.389009, metric: 36.31%},
+        {Epoch: 5, loss: 1.202851, metric: 31.30%},
+        {Epoch: 6, loss: 1.099526, metric: 28.99%},
+        {Epoch: 7, loss: 1.016567, metric: 26.96%},
+        {Epoch: 8, loss: 0.964382, metric: 25.45%},
+        {Epoch: 9, loss: 0.894587, metric: 24.66%},
+        {Epoch: 10, loss: 0.833716, metric: 22.70%},
+        {Epoch: 11, loss: 0.813949, metric: 22.09%},
+        {Epoch: 12, loss: 0.761886, metric: 21.06%},
+        {Epoch: 13, loss: 0.735463, metric: 20.12%},
+        {Epoch: 14, loss: 0.702383, metric: 19.20%},
+        {Epoch: 15, loss: 0.679296, metric: 19.12%},
+        {Epoch: 16, loss: 0.661913, metric: 18.32%},
+        {Epoch: 17, loss: 0.665768, metric: 18.04%},
+        {Epoch: 18, loss: 0.639873, metric: 17.71%},
+        {Epoch: 19, loss: 0.609557, metric: 17.22%},
+        {Epoch: 20, loss: 0.601983, metric: 16.98%},
+        {Epoch: 21, loss: 0.590193, metric: 16.20%},
+        {Epoch: 22, loss: 0.563508, metric: 15.75%},
+        {Epoch: 23, loss: 0.573514, metric: 16.05%},
+        {Epoch: 24, loss: 0.556674, metric: 15.91%},
+        {Epoch: 25, loss: 0.542215, metric: 15.20%},
+        {Epoch: 26, loss: 0.548860, metric: 15.68%},
+        {Epoch: 27, loss: 0.518350, metric: 15.01%},
+        {Epoch: 28, loss: 0.538101, metric: 15.49%},
+        {Epoch: 29, loss: 0.510856, metric: 14.66%},
+        {Epoch: 30, loss: 0.491497, metric: 14.00%},
+        {Epoch: 31, loss: 0.495603, metric: 14.16%},
+        {Epoch: 32, loss: 0.498207, metric: 14.17%},
+        {Epoch: 33, loss: 0.485505, metric: 13.64%},
+        {Epoch: 34, loss: 0.495657, metric: 14.21%},
+        {Epoch: 35, loss: 0.499112, metric: 13.98%},
+        {Epoch: 36, loss: 0.494321, metric: 13.86%},
+        {Epoch: 37, loss: 0.477081, metric: 13.66%},
+        {Epoch: 38, loss: 0.487583, metric: 13.64%},
+        {Epoch: 39, loss: 0.484125, metric: 13.28%},
+        {Epoch: 40, loss: 0.467222, metric: 14.07%},
+        {Epoch: 41, loss: 0.464514, metric: 12.71%},
+        {Epoch: 42, loss: 0.476476, metric: 13.30%},
+        {Epoch: 43, loss: 0.462628, metric: 13.09%},
+        {Epoch: 44, loss: 0.459658, metric: 13.53%},
+        {Epoch: 45, loss: 0.448634, metric: 12.59%},
+        {Epoch: 46, loss: 0.428102, metric: 12.12%},
+        {Epoch: 47, loss: 0.439459, metric: 12.46%},
+        {Epoch: 48, loss: 0.434686, metric: 12.53%},
+        {Epoch: 49, loss: 0.435245, metric: 12.61%},
+        {Epoch: 50, loss: 0.421822, metric: 11.61%},
+        {Epoch: 51, loss: 0.429785, metric: 12.53%},
+        {Epoch: 52, loss: 0.440209, metric: 12.53%},
+        {Epoch: 53, loss: 0.432379, metric: 12.24%},
+        {Epoch: 54, loss: 0.403147, metric: 11.91%},
+        {Epoch: 55, loss: 0.440530, metric: 12.59%},
+        {Epoch: 56, loss: 0.422761, metric: 12.41%},
+        {Epoch: 57, loss: 0.415569, metric: 11.45%},
+        {Epoch: 58, loss: 0.416189, metric: 12.29%},
+        {Epoch: 59, loss: 0.402188, metric: 11.97%},
+        {Epoch: 60, loss: 0.398652, metric: 11.90%},
+        {Epoch: 61, loss: 0.402697, metric: 11.34%},
+        {Epoch: 62, loss: 0.410564, metric: 11.40%},
+        {Epoch: 63, loss: 0.392805, metric: 11.25%},
+        {Epoch: 64, loss: 0.406913, metric: 12.01%},
+        {Epoch: 65, loss: 0.396616, metric: 11.44%},
+        {Epoch: 66, loss: 0.405174, metric: 11.72%},
+        {Epoch: 67, loss: 0.401622, metric: 11.97%},
+        {Epoch: 68, loss: 0.397158, metric: 11.70%},
+        {Epoch: 69, loss: 0.405876, metric: 11.41%},
+        {Epoch: 70, loss: 0.385823, metric: 10.55%},
+        {Epoch: 71, loss: 0.394271, metric: 11.66%},
+        {Epoch: 72, loss: 0.387300, metric: 10.94%},
+        {Epoch: 73, loss: 0.381691, metric: 10.99%},
+        {Epoch: 74, loss: 0.403832, metric: 11.82%},
+        {Epoch: 75, loss: 0.398098, metric: 11.53%},
+        {Epoch: 76, loss: 0.387537, metric: 11.06%},
+        {Epoch: 77, loss: 0.390809, metric: 11.33%},
+        {Epoch: 78, loss: 0.385737, metric: 10.81%},
+        {Epoch: 79, loss: 0.387773, metric: 11.07%},
+        {Epoch: 80, loss: 0.373783, metric: 10.69%},
+        {Epoch: 81, loss: 0.376902, metric: 10.64%},
+        {Epoch: 82, loss: 0.395566, metric: 11.21%},
+        {Epoch: 83, loss: 0.365642, metric: 10.72%},
+        {Epoch: 84, loss: 0.377947, metric: 10.97%},
+        {Epoch: 85, loss: 0.385970, metric: 10.97%},
+        {Epoch: 86, loss: 0.389583, metric: 11.77%},
+        {Epoch: 87, loss: 0.370561, metric: 10.61%},
+        {Epoch: 88, loss: 0.358524, metric: 10.16%},
+        {Epoch: 89, loss: 0.381319, metric: 11.38%},
+        {Epoch: 90, loss: 0.380612, metric: 11.00%},
+        {Epoch: 91, loss: 0.371606, metric: 10.90%},
+        {Epoch: 92, loss: 0.357309, metric: 10.51%},
+        {Epoch: 93, loss: 0.378977, metric: 11.29%},
+        {Epoch: 94, loss: 0.365361, metric: 10.78%},
+        {Epoch: 95, loss: 0.387322, metric: 11.03%},
+        {Epoch: 96, loss: 0.365073, metric: 10.74%},
+        {Epoch: 97, loss: 0.363027, metric: 10.55%},
+        {Epoch: 98, loss: 0.355177, metric: 10.36%},
+        {Epoch: 99, loss: 0.359080, metric: 10.40%},
+        {Epoch: 100, loss: 0.361095, metric: 10.30%}
+    ],
+    validation: [
+        {Epoch: 1, metric: 58.28%}
+        {Epoch: 2, metric: 40.42%}
+        {Epoch: 3, metric: 33.93%}
+        {Epoch: 4, metric: 29.87%}
+        {Epoch: 5, metric: 28.41%}
+        {Epoch: 6, metric: 26.95%}
+        {Epoch: 7, metric: 25.16%}
+        {Epoch: 8, metric: 24.19%}
+        {Epoch: 9, metric: 22.89%}
+        {Epoch: 10, metric: 21.75%}
+        {Epoch: 11, metric: 22.56%}
+        {Epoch: 12, metric: 22.24%}
+        {Epoch: 13, metric: 21.10%}
+        {Epoch: 14, metric: 21.59%}
+        {Epoch: 15, metric: 21.59%}
+        {Epoch: 16, metric: 21.43%}
+        {Epoch: 17, metric: 21.27%}
+        {Epoch: 18, metric: 20.13%}
+        {Epoch: 19, metric: 19.97%}
+        {Epoch: 20, metric: 19.97%}
+        {Epoch: 21, metric: 21.10%}
+        {Epoch: 22, metric: 20.45%}
+        {Epoch: 23, metric: 19.97%}
+        {Epoch: 24, metric: 19.64%}
+        {Epoch: 25, metric: 19.48%}
+        {Epoch: 26, metric: 19.48%}
+        {Epoch: 27, metric: 20.13%}
+        {Epoch: 28, metric: 18.99%}
+        {Epoch: 29, metric: 17.69%}
+        {Epoch: 30, metric: 19.48%}
+        {Epoch: 31, metric: 18.34%}
+        {Epoch: 32, metric: 18.34%}
+        {Epoch: 33, metric: 18.67%}
+        {Epoch: 34, metric: 18.83%}
+        {Epoch: 35, metric: 16.72%}
+        {Epoch: 36, metric: 16.88%}
+        {Epoch: 37, metric: 17.05%}
+        {Epoch: 38, metric: 18.18%}
+        {Epoch: 39, metric: 17.86%}
+        {Epoch: 40, metric: 17.21%}
+        {Epoch: 41, metric: 18.02%}
+        {Epoch: 42, metric: 18.34%}
+        {Epoch: 43, metric: 17.21%}
+        {Epoch: 44, metric: 18.02%}
+        {Epoch: 45, metric: 17.53%}
+        {Epoch: 46, metric: 17.37%}
+        {Epoch: 47, metric: 17.21%}
+        {Epoch: 48, metric: 17.53%}
+        {Epoch: 49, metric: 17.21%}
+        {Epoch: 50, metric: 17.21%}
+        {Epoch: 51, metric: 17.86%}
+        {Epoch: 52, metric: 17.37%}
+        {Epoch: 53, metric: 17.37%}
+        {Epoch: 54, metric: 17.53%}
+        {Epoch: 55, metric: 18.02%}
+        {Epoch: 56, metric: 17.69%}
+        {Epoch: 57, metric: 16.88%}
+        {Epoch: 58, metric: 17.21%}
+        {Epoch: 59, metric: 17.53%}
+        {Epoch: 60, metric: 17.37%}
+        {Epoch: 61, metric: 16.23%}
+        {Epoch: 62, metric: 16.88%}
+        {Epoch: 63, metric: 17.37%}
+        {Epoch: 64, metric: 18.18%}
+        {Epoch: 65, metric: 17.53%}
+        {Epoch: 66, metric: 17.53%}
+        {Epoch: 67, metric: 15.58%}
+        {Epoch: 68, metric: 16.88%}
+        {Epoch: 69, metric: 17.05%}
+        {Epoch: 70, metric: 17.37%}
+        {Epoch: 71, metric: 16.56%}
+        {Epoch: 72, metric: 16.56%}
+        {Epoch: 73, metric: 16.72%}
+        {Epoch: 74, metric: 17.21%}
+        {Epoch: 75, metric: 16.72%}
+        {Epoch: 76, metric: 17.05%}
+        {Epoch: 77, metric: 15.58%}
+        {Epoch: 78, metric: 16.56%}
+        {Epoch: 79, metric: 17.53%}
+        {Epoch: 80, metric: 16.72%}
+        {Epoch: 81, metric: 16.72%}
+        {Epoch: 82, metric: 17.21%}
+        {Epoch: 83, metric: 16.88%}
+        {Epoch: 84, metric: 17.69%}
+        {Epoch: 85, metric: 18.34%}
+        {Epoch: 86, metric: 15.91%}
+        {Epoch: 87, metric: 16.23%}
+        {Epoch: 88, metric: 17.69%}
+        {Epoch: 89, metric: 16.72%}
+        {Epoch: 90, metric: 16.40%}
+        {Epoch: 91, metric: 16.56%}
+        {Epoch: 92, metric: 17.37%}
+        {Epoch: 93, metric: 15.91%}
+        {Epoch: 94, metric: 16.88%}
+        {Epoch: 95, metric: 16.88%}
+        {Epoch: 96, metric: 16.56%}
+        {Epoch: 97, metric: 16.72%}
+        {Epoch: 98, metric: 17.69%}
+        {Epoch: 99, metric: 16.72%}
+        {Epoch: 100, metric: 16.88%}
+    ]
+}
